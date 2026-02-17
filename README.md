@@ -1,7 +1,9 @@
 # Chandhan M – Portfolio
 
 This repository hosts my professional portfolio website:  
-👉 [View Portfolio](https://mchandhan.github.io/portfolio/portfolio.html)
+👉 [View my Portfolio](https://mchandhan.github.io/portfolio/portfolio.html)
+👉 [View my Portfolio](https://mchandhan.github.io/portfolio/portfolio2.html)
+
 
 ## About
 I am a **DevOps & Cloud Engineer** specializing in AWS, Azure, and Oracle Cloud.  
